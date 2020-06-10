@@ -1,5 +1,5 @@
 # java-web-bbs
-web课程设计
+西电2020web课程设计
 
 servlet+jsp+mysql
 
