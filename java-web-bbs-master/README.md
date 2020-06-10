@@ -9,7 +9,8 @@ admin账号：admin 密码：111
 
 mysql数据库名：bbs 账号：root 密码：123456
 
-其实可以看代码自己改╮(╯▽╰)╭
+
 
 运行方式直接导入eclipse或者myeclipse
 
+16组
